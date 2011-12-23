@@ -40,7 +40,6 @@
          kill_handoffs/0
         ]).
 
--include_lib("riak_core/include/riak_core_handoff.hrl").
 -include_lib("eunit/include/eunit.hrl").
 
 -type mod()   :: atom().
